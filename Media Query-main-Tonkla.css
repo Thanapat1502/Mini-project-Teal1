@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px){
+    #main {
+        padding: 1rem;
+    }
+    #main-hero {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #main-hero-1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
